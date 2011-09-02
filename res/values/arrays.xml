@@ -33,16 +33,16 @@
     -->
     <string-array name="tips">
         <!-- Tip: Where the launcher icon is and what it does. With icon. -->
-        <item>See all your apps.\n
+        <item>Welcome to SHIFTAO5P.\n
         Touch the Launcher icon. @drawable/all_apps</item>
 
         <!-- Tip: How to survive in CyanogenMod. -->
-        <item>Rules\n
-        The only rule of CyanogenMod: You dont ask for ETAs.</item>
+        <item>TH3ORYROM
+        A Revolution in Android.</item>
 
 	<!-- Tip: How to get nightly builds. -->
-	<item>Nightly Builds (Advanced)\n
-	Available on ROM Manager. Do not submit issues on Google Code for these. @drawable/rommanager</item>
+	<item>Updates\n
+	All Updates can be found at www.th3oryrom.com and themikmik.com</item>
 
         <!-- Tip: Longpress in Launcher (all apps) to drag apps to the home screen. -->
         <item>Drag apps to your Home screen.\n
@@ -57,38 +57,25 @@
         Touch &amp; hold an item and when it vibrates, drag it where you want.</item>
 
         <!-- Tip: Teach them how to become better programmers -->
-        <item>Ballmer Peak\n
-        Optimal coding ability takes place between a BAC of .129 and .138.</item>
+        <item>Follow Us\n
+        On Twitter @droidth3ory @dhacker29 @xpack90.</item>
 
         <!-- Tip: Longpress icons/widgets and drag to trash to remove them. -->
         <item>Remove items.\n
         Touch &amp; hold an item and when it vibrates, drag it to the Trash icon. @drawable/trash</item>
 
-        <!-- Tip: Explain what is wrong with the iPhone. -->
-        <item>iPhone\n
-        You\'re holding it wrong. Always.</item>
-
+        
         <!-- Tip: Swipe to switch workspaces; drag items to move them to other
              workspaces. -->
         <item>Multiple Home screens.\n
         Swipe left or right to switch. Drag items to other screens.</item>
 
-        <!-- Tip: Winzip must be kept up to date. -->
-        <item>Number 1 Priority\n
-        Don\'t forget to keep your winzip up to date.</item>
-
-        <!-- Tip: Find out what it means to kang. -->
-        <item>Kang [kayng] - (verb)\n
-        Upgraded my winzip br0. Thanks to my patient lady putting up with my devvin. @drawable/kang_truck</item>
-
+        
         <!-- Tip: The Definition of Open. -->
         <item>Definition of Open\n
-        repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make. @drawable/android_open </item>
+        Enjoy the ROM and Welcome to the Revolution!!! </item>
 
-        <!-- Tip: A tribute to Cyanogen's cat -->
-        <item>Catroast\n
-        Always catproof your electronics, cats are bound to pee on them. @drawable/cat_attack</item>
-
+        
         <!-- Tip: Reminder about how to delete widgets, reinforcing that this
              technique can be used to remove the tips widget iteself. -->
         <item>Done with this widget?\n
