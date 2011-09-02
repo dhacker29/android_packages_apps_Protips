@@ -36,50 +36,48 @@
         <item>Welcome to SHIFTAO5P.\n
         Touch the Launcher icon. @drawable/all_apps</item>
 
-        <!-- Tip: How to survive in CyanogenMod. -->
-        <item>TH3ORYROM
+        <!-- Tip: How to survive in SHIFTAO5P. -->
+        <item>TH3ORYROM\n
         A Revolution in Android.</item>
 
-	<!-- Tip: How to get nightly builds. -->
+	<!-- Tip: How to get SHIFTAO5P. -->
 	<item>Updates\n
-	All Updates can be found at www.th3oryrom.com and themikmik.com</item>
+	All Updates can be found at www.th3oryrom.com and themikmik.com. @drawable/android_open</item>
 
         <!-- Tip: Longpress in Launcher (all apps) to drag apps to the home screen. -->
         <item>Drag apps to your Home screen.\n
         Touch &amp; hold an app in the Launcher until it vibrates.</item>
 	
-	<!-- Tip: DrKmobs -->
-	<item>Do not listen to Dr Kmobs\n
-	He is not a real doctor, and that is not a thermometer. @drawable/stethoscope</item>
+	<!-- Tip: AO5PStor3 -->
+	<item>AO5PStor3\n
+	Click the AO5PStor3 icon in your apps drawer for cool themes and mods. @drawable/ao5pstor3</item>
 
         <!-- Tip: Longpress to move icons/widgets around. -->
         <item>Rearrange your Home screen.\n
         Touch &amp; hold an item and when it vibrates, drag it where you want.</item>
 
-        <!-- Tip: Teach them how to become better programmers -->
+        <!-- Tip: Follow us -->
         <item>Follow Us\n
-        On Twitter @droidth3ory @dhacker29 @xpack90.</item>
+        On Twitter @droidth3ory @dhacker29 @xpack90. @drawable/twitter</item>
 
         <!-- Tip: Longpress icons/widgets and drag to trash to remove them. -->
         <item>Remove items.\n
         Touch &amp; hold an item and when it vibrates, drag it to the Trash icon. @drawable/trash</item>
-
         
         <!-- Tip: Swipe to switch workspaces; drag items to move them to other
              workspaces. -->
         <item>Multiple Home screens.\n
         Swipe left or right to switch. Drag items to other screens.</item>
 
-        
-        <!-- Tip: The Definition of Open. -->
-        <item>Definition of Open\n
-        Enjoy the ROM and Welcome to the Revolution!!! </item>
+        <!-- Tip: Enjoy. -->
+        <item>Enjoy!!\n
+        Enjoy the ROM and Welcome to the Revolution!!! @drawable/android_open</item>
 
         
         <!-- Tip: Reminder about how to delete widgets, reinforcing that this
              technique can be used to remove the tips widget iteself. -->
         <item>Done with this widget?\n
-        Touch &amp; hold it and when it vibrates, drag it to the Trash icon.</item>
+        Touch &amp; hold it and when it vibrates, drag it to the Trash icon. @drawable/trash</item>
 
     </string-array>
     
